@@ -1,0 +1,5 @@
+../Core/Src/imu_setup.c:85:16:platform_write_imu	48	static
+../Core/Src/imu_setup.c:93:16:platform_write_mag	48	static
+../Core/Src/imu_setup.c:101:16:platform_read_imu	48	static
+../Core/Src/imu_setup.c:108:16:platform_read_mag	48	static
+../Core/Src/imu_setup.c:116:13:platform_delay	16	static
