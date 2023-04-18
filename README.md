@@ -14,3 +14,8 @@ In main func:
    Call main_LCD(currDisp, 4 floats, state_int);
 
 
+For print_progress function:
+	
+	In main call print_progress x number of times where x is number of seconds.
+	print_progress(currDisp, seconds, currTim);
+	Where currTim keeps track of which patricular second is calling for a progress bar section
