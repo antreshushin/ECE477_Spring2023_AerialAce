@@ -17,5 +17,6 @@ In main func:
 For print_progress function:
 	
 	In main call print_progress x number of times where x is number of seconds.
-	print_progress(currDisp, seconds, currTim);
-	Where currTim keeps track of which patricular second is calling for a progress bar section
+	print_progress(currDisp, seconds, curTim);
+	Where curTim keeps track of which patricular second is calling for a progress bar section
+		Ex: If seconds = 10; curTim = 0 to 9
